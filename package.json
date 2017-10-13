@@ -1,7 +1,7 @@
 {
-  "name": "ucc-library",
+  "name": "vue-scaffold",
   "version": "1.0.0",
-  "description": "library project",
+  "description": "vue-scaffold",
   "author": "yepeng <yepeng@bilibili.com>",
   "private": false,
   "scripts": {
